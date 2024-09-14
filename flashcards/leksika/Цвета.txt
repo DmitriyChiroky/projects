@@ -1,0 +1,8 @@
+red;красный
+blue;синий
+green;зелёный
+yellow;жёлтый
+black;чёрный
+white;белый
+pink;розовый
+orange;оранжевый

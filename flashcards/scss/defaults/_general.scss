@@ -1,0 +1,178 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    //font-family: 'Archivo', sans-serif;
+    font-size: 16px;
+    line-height: 155%;
+    overflow-x: hidden;
+    background: #1F1F28;
+    position: relative;
+}
+
+html.overflow-hidden,
+body.overflow-hidden {
+    overflow: hidden;
+}
+
+img,
+svg {
+    max-width: 100%;
+    height: auto;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+p,
+ul,
+ol {
+    margin-bottom: 20px;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+input,
+textarea {
+    border-radius: 0; // Prevent IOS add border-radius by default to all input elements
+}
+
+a {
+    -webkit-transition: all .25s ease-in-out;
+    -o-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+}
+
+.wcl-body-inner {
+    position: relative;
+    z-index: 1;
+}
+
+.wcl-section {
+    position: relative;
+}
+
+.wcl-container {
+    width: 100%;
+    max-width: 1396px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+h1,
+.wcl-h1,
+h2,
+.wcl-h2,
+h3,
+.wcl-h3,
+h4,
+.wcl-h4,
+h5,
+.wcl-h5,
+h6,
+.wcl-h6 {
+    font-weight: bold;
+    line-height: 155%;
+    // margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h1,
+.wcl-h1 {
+    font-size: 42px;
+}
+
+h2,
+.wcl-h2 {
+    font-size: 34px;
+}
+
+h3,
+.wcl-h3 {
+    font-size: 30px;
+}
+
+h4,
+.wcl-h4 {
+    font-size: 28px;
+}
+
+h5,
+.wcl-h5 {
+    font-size: 24px;
+}
+
+h6,
+.wcl-h6 {
+    font-size: 22px;
+}
+
+
+
+
+strong,
+b {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+a {
+    // STYLES OF ALL LINKS GOES HERE
+}
+
+ul {
+    list-style: disc;
+}
+
+ol {
+    list-style: decimal;
+}
+
+ul,
+ol {
+    padding-left: 20px;
+}
+
+
+
+
+
+/*
+* Responsive Design
+*/
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    .wcl-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+// 575px
+@media (max-width: 768px) {
+    .wcl-container {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+}

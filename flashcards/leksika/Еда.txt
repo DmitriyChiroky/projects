@@ -1,0 +1,8 @@
+apple;яблоко
+bread;хлеб
+cheese;сыр
+milk;молоко
+meat;мясо
+fish;рыба
+orange;апельсин
+egg;яйцо

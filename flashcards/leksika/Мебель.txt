@@ -1,0 +1,8 @@
+table;стол
+chair;стул
+sofa;диван
+bed;кровать
+wardrobe;шкаф
+desk;письменный стол
+lamp;лампа
+shelf;полка

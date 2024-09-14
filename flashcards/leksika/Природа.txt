@@ -1,0 +1,8 @@
+sky;небо
+tree;дерево
+river;река
+mountain;гора
+forest;лес
+sea;море
+grass;трава
+flower;цветок

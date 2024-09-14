@@ -1,0 +1,8 @@
+cat;кот
+dog;собака
+elephant;слон
+bird;птица
+tiger;тигр
+horse;лошадь
+fish;рыба
+lion;лев

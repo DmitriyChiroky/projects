@@ -1,6 +1,6 @@
 Theme development and modification.
 
-## List of Prohects.
+## List of Projects.
 
 ---
 
